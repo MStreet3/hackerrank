@@ -24,7 +24,7 @@ body {
     color: red;
 }
 
-#btns{
+.btns{
     width: 25%;
     height: 36px;
     font-size: 18px;
